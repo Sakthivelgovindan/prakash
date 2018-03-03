@@ -1,0 +1,472 @@
+body{
+	height:100%;
+	width:100%;
+	background-color:#f2f2f2;
+}
+img{
+	height:100%;;
+	width:100%;
+}
+#top{
+	position:relative;
+	width:1350px;
+	height:49px;
+	background-color:#f2e6ff;
+}
+
+#top1{
+
+	height:47px;
+	width:900px;
+	border:1px solid #e5ccff;
+}
+
+#cleartriplogo{
+	cursor:pointer;
+	height:35px;
+	width:140px;
+	margin-top:10px;
+	margin-left:130px;
+}
+
+
+#tell{
+	position:absolute;
+	margin-left:130px;
+	margin-top:13px;
+	text-decoration: none;
+	}
+
+#tell:hover{
+	text-decoration:underline;
+}
+
+#experience{
+	margin-left:535px;
+	margin-top:-35px;
+}
+
+#currency{
+	cursor:pointer;
+	height:47px;
+	width:140px;
+	border:1px solid #e5ccff;
+	margin-left:900px;
+	margin-top:-49px;
+	border-left:none;
+}
+
+#currency1{
+
+	margin-left:7px;
+	opacity:0.6;
+	
+}
+
+#down{
+	margin-left:110px;
+	margin-top:-33px;
+}
+
+
+
+#currency1:hover{
+	opacity:1;
+}
+
+#india{
+	cursor:pointer;
+	height:47px;
+	width:70px;
+	border:1px solid #e5ccff;
+	margin-left:1040px;
+	margin-top:-49px;
+	border-left:none;
+
+}
+
+#india1{
+	height:47px;
+	width:47px;
+	color:gray;
+}
+
+#indiadown{
+	margin-top:-30px;
+	margin-left:50px;
+	opacity:0.5;
+
+}
+
+#indiadown:hover{
+	color:black;
+
+}
+
+#over{
+
+	border-radius:100%;
+	height:35px;
+	width:35px;
+	margin-top:6px;
+	margin-left:10px;
+}
+
+#trip{
+	height:47px;
+	width:140px;
+	border:1px solid #e5ccff;
+	margin-left:1110px;
+	margin-top:-49px;
+	border-left:none;
+
+}
+
+#account{
+	
+	height:30px;
+	width:30px;
+	margin-left:10px;
+	margin-top:8px;
+	border-radius:100%;
+}
+
+#account1{
+	
+	margin-left:50px;
+	margin-top:-28px;
+	opacity:0.5;
+
+}
+#account1:hover{
+	opacity:1;
+}
+
+#second{
+	position:absolute;
+	margin-top:20px;
+	margin-left:50px;
+	height:550px;
+	width:1200px; 
+    background-color:white;
+    box-shadow:0 0 10px gray;
+
+}
+
+#flight{
+	margin-top:20px;
+	margin-left:20px;
+	height:20px;
+	width:20px;
+}
+
+#flightname{
+	margin-top:-24px;
+	margin-left:60px;
+	font-size: 20px;
+}
+
+#boldname{
+	position:absolute;
+	margin-top:-45px;
+	margin-left:210px;
+	font-size:25px;
+	font-weight:bold;
+}
+
+#second2{
+
+	position:absolute;
+	height:480px;
+	width:250px;
+	background-color:#f2f2f2;
+	margin-top:0px;
+}
+
+#second22{
+	position:absolute;
+	height:50px;
+	width:250px;
+	background-color:#f2f2f2;
+	
+	
+}
+
+
+#hotelname{
+	margin-top:-35px;
+	margin-left:70px;
+	font-size: 18px;
+}
+
+#hotelbold{
+	position:absolute;
+	margin-top:-45px;
+	margin-left:210px;
+	font-size:25px;
+	font-weight:bold;
+}
+#Hotel,#managetrip,#train,#hotel,#local,#flightdeal,#mobile{
+	margin-top:10px;
+	margin-left:20px;
+	height:35px;
+	width:35px;
+}
+
+
+#second23{
+	position:absolute;
+	height:50px;
+	width:250px;
+	background-color:#f2f2f2;
+	
+	
+}
+
+
+#localname{
+	margin-top:-35px;
+	margin-left:70px;
+	font-size: 18px;
+}
+
+#localbold{
+	position:absolute;
+	margin-top:-45px;
+	margin-left:210px;
+	font-size:25px;
+	font-weight:bold;
+}
+
+
+
+#second24{
+	position:absolute;
+	height:50px;
+	width:250px;
+	background-color:#f2f2f2;
+	
+	
+}
+
+
+#trainname{
+	margin-top:-35px;
+	margin-left:70px;
+	font-size: 18px;
+}
+
+#trainbold{
+	position:absolute;
+	margin-top:-45px;
+	margin-left:210px;
+	font-size:25px;
+	font-weight:bold;
+}
+#second25{
+	position:absolute;
+	height:50px;
+	width:250px;
+	background-color:#f2f2f2;
+	
+	
+}
+
+
+#flightdealname{
+	margin-top:-35px;
+	margin-left:70px;
+	font-size: 18px;
+}
+
+#flightdealbold{
+	position:absolute;
+	margin-top:-45px;
+	margin-left:210px;
+	font-size:25px;
+	font-weight:bold;
+}
+
+#second26{
+	position:absolute;
+	height:50px;
+	width:250px;
+	background-color:#f2f2f2;
+
+	
+}
+
+
+#mobilename{
+	margin-top:-35px;
+	margin-left:70px;
+	font-size: 18px;
+}
+
+#mobilebold{
+	position:absolute;
+	margin-top:-45px;
+	margin-left:210px;
+	font-size:25px;
+	font-weight:bold;
+}
+
+#second27{
+	position:absolute;
+	height:50px;
+	width:250px;
+	background-color:#f2f2f2;
+
+}
+
+
+#managetripname{
+	margin-top:-35px;
+	margin-left:70px;
+	font-size: 18px;
+}
+
+#managetripbold{
+	position:absolute;
+	margin-top:-45px;
+	margin-left:210px;
+	font-size:25px;
+	font-weight:bold;
+}
+
+
+#second4{
+
+	height:550px;
+	width:270px;
+	margin-left:929px;
+	margin-top:-313px;
+	background-color:#f2f2f2;
+	}
+
+#deals{
+	
+	margin-left:30px;
+	margin-top:20px;
+	height: 40px;
+	width:70px;
+	border-radius:100%;
+}
+
+#deals1{
+	position:absolute;
+	margin-top:-35px;
+	margin-left:120px;
+	height: 50px;
+	width:100px;
+}
+
+#triplocal{
+	text-decoration:none;
+	margin-left:30px;
+}
+
+#triplocal:hover{
+	text-decoration:underline;
+}
+
+#deallocal{
+	line-height:1.2;
+	margin-left:30px;
+}
+
+#second3{
+	position:absolute;
+	height:550px;
+	width:676px;
+	//border:1px solid black;
+	margin-left:250px;
+	margin-top:-313px;
+}
+
+#hcontent{
+	font-family:Book Antiqua;
+	margin-left: 45px;
+	margin-top:45px;
+}
+
+#fly{
+	color:gray;
+	font-size:20px;
+	margin-top:-20px;
+	margin-left:45px;
+}
+
+#radio{
+	margin-top:-20px;
+}
+
+#from1{
+	
+	margin-left:45px;
+}
+
+#to1{
+	
+	
+	margin-left:400px;
+	margin-top:-55px;
+}
+
+#radio1from,#radio1to{
+	height:25px;
+}
+
+#dualside{
+	height:20px;
+	width:20px;
+	transform:rotate(90deg);
+	margin-left:330px;
+}
+
+#imagedual{
+	margin-top:-30px;
+}
+
+#departno{
+	margin-left:45px;
+}
+
+#calender{
+	position:absolute;
+	height:22px;
+	width:22px;
+	margin-left:-30px;
+	margin-top:3px;
+}
+
+#count{
+	margin-left:-75px;
+}
+
+#countvalue{
+
+	border-spacing:120px 0;
+}
+
+#moreoption{
+	margin-left:40px;
+	text-decoration:none;
+}
+
+#moreoption:hover{
+	text-decoration:underline;
+}
+
+
+#submitvalue{
+	height:40px;
+	width:130px;
+	text-decoration:none;
+	background-color:#ff6600;
+	margin-left:500px;
+	color:white;
+	font-size:18px;
+	border-radius:5px;
+}
+
